@@ -1,7 +1,7 @@
 if [ $# -lt 2 ]
 then
     echo "*************************************************************************************"
-    echo "*       Usage - sh query.sh com.google.android.youtube video_playtime_in_minutes        *"
+    echo "       Usage - sh query.sh com.google.android.youtube video_playtime_in_minutes      "
     echo "*************************************************************************************"
     exit
 fi
