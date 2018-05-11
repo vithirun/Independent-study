@@ -3,7 +3,7 @@
 
 Measuring the metrics[CPU, memory and Network Usage] of Android Application.
 
-query.sh <application name> <query runtime>
+query.sh \<application name\> <query runtime>
   - Shell script to extract the CPU, memory and network usage of the running android application 
   parameters: 
   1. application name : Android application name can be figured out by using adb shell command.
